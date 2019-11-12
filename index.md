@@ -1,3 +1,4 @@
+[](https://github.com/kryf/digits/blob/cleanup/doc/landing-page.png)
 <img src="doc/landing-page.PNG" alt="landing">
 
 ## Installation
