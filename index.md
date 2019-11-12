@@ -1,4 +1,3 @@
-[](https://github.com/kryf/digits/blob/cleanup/doc/landing-page.png)
 <img src="doc/landing-page.PNG" alt="landing">
 
 ## Installation
@@ -98,7 +97,6 @@ The application creates a list of contacts and allows the addition of timestampe
 
 When you retrieve the app at http://localhost:3000, this is what should be displayed:
 
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/landing-page.png)
 <img src="doc/landing-page.PNG" alt="landing">
 
 The login in the top right of the page allows returning users to sign-in or new users to register.
@@ -107,14 +105,12 @@ The login in the top right of the page allows returning users to sign-in or new 
 
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/signin-page.png)
 <img src="doc/login.PNG" alt="login">
 
 #### Register page
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/register-page.png)
 <img src="doc/register.PNG" alt="register">
 
 
@@ -122,7 +118,6 @@ Alternatively, clicking on the Login link, then on the Sign Up menu item display
 
 Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
 
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/landing-after-login-page.png)
 <img src="doc/login-landing.PNG" alt="login-landing">
 
 There are two tabs: "Add Contact" and "List Contacts".
@@ -131,14 +126,12 @@ There are two tabs: "Add Contact" and "List Contacts".
 
 After logging in, there is a new page which allows new contacts to be added:
 
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/add-stuff-page.png)
 <img src="doc/add-contact.PNG" alt="add-contact">
 
 #### List Contacts page
 
 After logging in, the new page allows the user to view their contacts. There is also the option to add a timestamped note to a contact, and provides the option to edit the contact.
 
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/list-stuff-page.png)
 <img src="doc/list-contacts.PNG" alt="list-contacts">
 
 Clicking the edit button will bring the user to the "Edit Contact" page.
@@ -147,7 +140,6 @@ Clicking the edit button will bring the user to the "Edit Contact" page.
 
 The edit page allows the user to make changes to a contact's information. 
 
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/edit-stuff-page.png)
 <img src="doc/edit-contact.PNG" alt="edit-contact">
 
 Pressing the submit button updates the contact's information which can be viewed again by going back to the "List Contacts" page.
@@ -156,14 +148,12 @@ Pressing the submit button updates the contact's information which can be viewed
 
 Logging in as the "admin" user produces a similar landing page; however, a new "Admin" tab can be seen on the navbar:
 
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/admin-landing-page.png)
 <img src="doc/login-admin.PNG" alt="login-admin">
 
 #### Admin page (list all users contacts)
 
 The new "Admin" page allows the "admin" user to view all users' contacts:
 
-![](https://raw.githubusercontent.com/ics-software-engineering/meteor-application-template-react/master/doc/admin-list-stuff-page.png)
 <img src="doc/admin.PNG" alt="admin">
 
 The contacts display which user the contact belongs to. This feature is only available for the "admin" user.
